@@ -1,3 +1,5 @@
+package com.jefvaza.todo;
+
 import androidx.room.Entity
 import androidx.room.PrimaryKey
 
